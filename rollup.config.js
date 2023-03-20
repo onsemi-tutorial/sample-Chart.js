@@ -54,8 +54,8 @@ export default [
       file: 'dist/chart.umd.js',
       format: 'umd',
       indent: false,
-      sourcemap: true,
-    },
+      sourcemap: true
+    }
   },
 
   // ES6 builds
@@ -75,8 +75,8 @@ export default [
       banner,
       format: 'esm',
       indent: false,
-      sourcemap: true,
-    },
+      sourcemap: true
+    }
   },
 
   // CommonJS builds
@@ -96,7 +96,7 @@ export default [
       banner,
       format: 'commonjs',
       indent: false,
-      sourcemap: true,
-    },
+      sourcemap: true
+    }
   }
 ];

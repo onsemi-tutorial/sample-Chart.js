@@ -35,3 +35,4 @@ docs/.vuepress/dist
 
 # Eslint
 .eslintcache
+/nbproject/private/
